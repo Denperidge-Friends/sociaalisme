@@ -2,19 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART:20221109T043000Z
-SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:602ad2bb-3a24-433b-adf8-dd4ae4dde715@602a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20221109T100000Z
-SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:b89600c2-1c52-4950-b8a7-4847368bb6e8@b896.org
-END:VEVENT
-BEGIN:VEVENT
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z
 SUMMARY:ACA Volkskeuken
-UID:c6baa3cf-6b8d-4e57-953e-ecd9ba040ff1@c6ba.org
+UID:4c238095-3b95-4017-be47-235b0483e028@4c23.org
 END:VEVENT
 END:VCALENDAR
