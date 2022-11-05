@@ -2,23 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART:20221109T043000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:ada8afb8-8fec-46aa-8b0b-45fa9c4186ae@ada8.org
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+END:VEVENT
+BEGIN:VEVENT
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z
 SUMMARY:ACA Volkskeuken
-UID:43ec57d1-07de-4e1c-9852-dc2f10e6d354@43ec.org
+UID:2ffa6850-6e02-413b-aa88-a7a022a72304@2ffa.org
 URL:https://en-gb.facebook.com/events/454314050021693/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
 LOCATION:Peperfabriek 05u30 // Astridplein 11u00
 DTSTART:20221109T100000Z
 SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:9f3a3d3e-159c-4915-89ff-dd6670b46bd0@9f3a.org
+UID:a5575209-4f4c-48b4-bbe7-c4b8df941bd7@a557.org
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20221109T043000Z
-SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:07ce62c8-3212-496f-8ab8-e70e8b4cbc0d@07ce.org
-URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
 END:VEVENT
 END:VCALENDAR
