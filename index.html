@@ -23,12 +23,23 @@ body {
     <h1>Sociaalisme</h1>
     <section>
         <h2>Events</h2>
-        <div class="grid">
-            <article>
+
+        <nav>
+            <ul id="sources">
+                <li>Filter:</li>
+                <li><a href="#" id="actief-linkse-studenten-antwerpen">Actief Linkse Studenten Antwerpen</a></li>
+                <li><a href="#" id="anarchistisch-collectief-antwerpen">Anarchistisch Collectief Antwerpen</a></li>
+                <li><a href="#" id="campagne-rosa-nl">Campagne ROSA - NL</a></li>
+            </ul>
+        </nav>
+
+        <div id="events" class="grid">
+            <article class="anarchistisch-collectief-antwerpen">
                 <h3>ACA Volkskeuken</h3>
     
                 <p>19:00 - Friday 11 Nov 2022</p>
                 <p>@ Peperfabriek Antwerp</p>
+                <p>Organised by Anarchistisch Collectief Antwerpen</p>
                 <a href="https://en-gb.facebook.com/events/454314050021693/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D">View on Facebook</a>
                 
                 <br><br>
@@ -40,7 +51,7 @@ body {
                         "startTime": "19:00",
                         "endTime": "21:00",
                         "location": "Peperfabriek Antwerp",
-                        "description": "View the Event here: https://www.facebook.com/events/454314050021693/",
+                        "description": "Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info",
                         "timeZone": "Europe/Brussels",
 
                         "label": "Add ACA Volkskeuken to your Calendar",
@@ -51,10 +62,11 @@ body {
                     }
                 </div>
             </article>
-            <article>
+            <article class="actief-linkse-studenten-antwerpen">
                 <h3>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h3>
     
                 <p>05:30 - Wednesday 09 Nov 2022</p>
+                <p>Organised by Actief Linkse Studenten Antwerpen</p>
                 <a href="https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489">View on Facebook</a>
                 
                 <br><br>
@@ -66,7 +78,7 @@ body {
                         "startTime": "05:30",
                         "endTime": "07:30",
                         "location": "",
-                        "description": "View the Event here: https://www.facebook.com/events/671875391203490/",
+                        "description": "Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info",
                         "timeZone": "Europe/Brussels",
 
                         "label": "Add Solidair... to your Calendar",
@@ -77,11 +89,12 @@ body {
                     }
                 </div>
             </article>
-            <article>
+            <article class="actief-linkse-studenten-antwerpen">
                 <h3>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h3>
     
                 <p>11:00 - Wednesday 09 Nov 2022</p>
                 <p>@ Peperfabriek 05u30 // Astridplein 11u00</p>
+                <p>Organised by Actief Linkse Studenten Antwerpen</p>
                 <a href="https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823">View on Facebook</a>
                 
                 <br><br>
@@ -93,7 +106,7 @@ body {
                         "startTime": "11:00",
                         "endTime": "13:00",
                         "location": "Peperfabriek 05u30 // Astridplein 11u00",
-                        "description": "View the Event here: https://www.facebook.com/events/671875391203490/",
+                        "description": "Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info",
                         "timeZone": "Europe/Brussels",
 
                         "label": "Add Solidair... to your Calendar",
@@ -104,7 +117,55 @@ body {
                     }
                 </div>
             </article>
+            <article class="campagne-rosa-nl">
+                <h3>EGA-ROSA solidarity tour</h3>
+    
+                <p>05:30 - Wednesday 09 Nov 2022</p>
+                <p>@ Rond-Point Robert Schuman, 1040 Bruxelles, Belgique</p>
+                <p>Organised by Campagne ROSA - NL</p>
+                <a href="https://www.facebook.com/events/843329223678771/">View on Facebook</a>
+                
+                <br><br>
+
+                <div class="atcb" style="display: none;">
+                    {
+                        "name": "EGA-ROSA solidarity tour",
+                        "startDate": "2022-11-09",
+                        "startTime": "05:30",
+                        "endTime": "07:30",
+                        "location": "Rond-Point Robert Schuman, 1040 Bruxelles, Belgique",
+                        "description": "Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info",
+                        "timeZone": "Europe/Brussels",
+
+                        "label": "Add EGA-ROSA... to your Calendar",
+
+                        "options": ["Apple", "Google|Google Calendar", "Microsoft365", "Outlook.com", "Yahoo", "iCal|iCal (.ics file)"],
+                        "trigger": "click",
+                        "listStyle": "overlay"
+                    }
+                </div>
+            </article>
         </div>
+    </section>
+
+    <section>
+        <h2>Calendar feeds</h2>
+        <p>If you want to, you can also subscribe to an ical/.ics feed (sometimes called public url).<br>This will automatically add any events added here to your own calendar.</p>
+        <ul class="grid">
+            <li>Subscribe to all pages & communities listed here: <input type="url" value="https://sociaalisme.denperidge.com/ical/all.ics" readonly></li>
+                <li>
+                    <label>Subscribe to Actief Linkse Studenten Antwerpen: </label>
+                    <input type="url" readonly value="https://sociaalisme.denperidge.com/ical/actief-linkse-studenten-antwerpen.ics">
+                </li>
+                <li>
+                    <label>Subscribe to Anarchistisch Collectief Antwerpen: </label>
+                    <input type="url" readonly value="https://sociaalisme.denperidge.com/ical/anarchistisch-collectief-antwerpen.ics">
+                </li>
+                <li>
+                    <label>Subscribe to Campagne ROSA - NL: </label>
+                    <input type="url" readonly value="https://sociaalisme.denperidge.com/ical/campagne-rosa-nl.ics">
+                </li>
+        </ul>
     </section>
 
     <section id="pages">
@@ -114,6 +175,7 @@ body {
             <li><a href="https://www.facebook.com/LSPPSL.LinkseSocialistischePartij/upcoming_hosted_events">https://www.facebook.com/LSPPSL.LinkseSocialistischePartij/upcoming_hosted_events</a></li>
             <li><a href="https://www.facebook.com/anarchocollectiefantwerpen/events/">https://www.facebook.com/anarchocollectiefantwerpen/events/</a></li>
             <li><a href="https://www.facebook.com/ALSAntwerpen/upcoming_hosted_events">https://www.facebook.com/ALSAntwerpen/upcoming_hosted_events</a></li>
+            <li><a href="https://www.facebook.com/CampagneROSANL/upcoming_hosted_events">https://www.facebook.com/CampagneROSANL/upcoming_hosted_events</a></li>
         </ul>
         <p>(Note: this page is not made by the owners of the pages/communities listed above)</p>
     </section>
@@ -128,7 +190,32 @@ body {
     <span>Calendar buttons by <a href="https://add-to-calendar-button.com/">ATCB</a></span>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js"></script>
 <!-- https://github.com/add2cal/add-to-calendar-button -->
 <script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1" async defer></script>
+<script>sourceFilters = $("nav a");
+eventSelector = "#events article";
+events = $(eventSelector);
+
+sourceFilters.on("click", function(e) {
+    sourceFilter = $(e.target);
+    console.log(sourceFilter.attr("id"))
+
+    // If not pressed before,
+    if (sourceFilter.attr("role") != "button") {
+        sourceFilters.attr("role", "");  // Disable any other active buttons
+        sourceFilter.attr("role", "button");  // Activate the current
+
+        let selectedEvents = $(`${eventSelector}.${sourceFilter.attr("id")}`);
+
+        events.not(selectedEvents).hide(400);  // Hide all events
+        // Besides of the selected source
+        selectedEvents.show(400);
+    } else {
+        sourceFilter.attr("role", "");
+        events.show(400);
+    }
+    
+});</script>
 </body>
 </html>

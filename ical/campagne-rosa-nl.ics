@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
+LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
+DTSTART:20221109T043000Z
+SUMMARY:EGA-ROSA solidarity tour
+UID:e475189d-320f-4cfc-8d19-9bf5ed5332c7@e475.org
+URL:https://www.facebook.com/events/843329223678771/
+END:VEVENT
+END:VCALENDAR

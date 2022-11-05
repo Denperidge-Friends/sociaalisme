@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
+LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
+DTSTART:20221109T043000Z
+SUMMARY:EGA-ROSA solidarity tour
+UID:e475189d-320f-4cfc-8d19-9bf5ed5332c7@e475.org
+URL:https://www.facebook.com/events/843329223678771/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
+DTSTART:20221109T043000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:78a56a1e-49a1-4c59-9645-ee1bf493577a@78a5.org
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info
+LOCATION:Peperfabriek Antwerp
+DTSTART:20221111T180000Z
+SUMMARY:ACA Volkskeuken
+UID:eb3ad874-e0e5-4f9f-864e-277a6ae2672a@eb3a.org
+URL:https://en-gb.facebook.com/events/454314050021693/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
+LOCATION:Peperfabriek 05u30 // Astridplein 11u00
+DTSTART:20221109T100000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:fbbcf011-6f0c-4946-b403-e70688b90586@fbbc.org
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
+END:VEVENT
+END:VCALENDAR
