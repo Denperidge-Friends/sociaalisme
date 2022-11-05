@@ -4,40 +4,131 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Facebook events</title>
+
+    <!-- https://picocss.com/ -->
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+    <style>
+body {
+    width: 80%;
+    margin: auto;
+}    </style>
+
+    <title>None</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1/assets/css/atcb.min.css">
 </head>
 <body>
-    <main>
-        
+<main>
+    <h1>None</h1>
+    <section>
+        <h2>Events</h2>
+        <div class="grid">
             <article>
-                <h2>ACA Volkskeuken</h2>
+                <h3>ACA Volkskeuken</h3>
+    
+                <p>19:00 - Friday 11 Nov 2022</p>
+                <p>@ Peperfabriek Antwerp</p>
+                <a href="https://en-gb.facebook.com/events/454314050021693/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D">View on Facebook</a>
+                
+                <br><br>
 
-                19:00 Friday 11/11/22
+                <div class="atcb" style="display: none;">
+                    {
+                        "name": "ACA Volkskeuken",
+                        "startDate": "2022-11-11",
+                        "startTime": "19:00",
+                        "endTime": "21:00",
+                        "location": "Peperfabriek Antwerp",
+                        "description": "View the Event here: https://www.facebook.com/events/454314050021693/",
+                        "timeZone": "Europe/Brussels",
 
-                
-                    <span>Peperfabriek Antwerp</span>
-                
-                
+                        "label": "Add ACA Volkskeuken to your Calendar",
+
+                        "options": ["Apple", "Google|Google Calendar", "Microsoft365", "Outlook.com", "Yahoo", "iCal|iCal (.ics file)"],
+                        "trigger": "click",
+                        "listStyle": "overlay"
+                    }
+                </div>
             </article>
-        
             <article>
-                <h2>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h2>
-
-                05:30 Wednesday 11/09/22
-
+                <h3>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h3>
+    
+                <p>05:30 - Wednesday 09 Nov 2022</p>
+                <a href="https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489">View on Facebook</a>
                 
-                
+                <br><br>
+
+                <div class="atcb" style="display: none;">
+                    {
+                        "name": "Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!",
+                        "startDate": "2022-11-09",
+                        "startTime": "05:30",
+                        "endTime": "07:30",
+                        "location": "",
+                        "description": "View the Event here: https://www.facebook.com/events/671875391203490/",
+                        "timeZone": "Europe/Brussels",
+
+                        "label": "Add Solidair... to your Calendar",
+
+                        "options": ["Apple", "Google|Google Calendar", "Microsoft365", "Outlook.com", "Yahoo", "iCal|iCal (.ics file)"],
+                        "trigger": "click",
+                        "listStyle": "overlay"
+                    }
+                </div>
             </article>
-        
             <article>
-                <h2>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h2>
-
-                11:00 Wednesday 11/09/22
-
+                <h3>Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!</h3>
+    
+                <p>11:00 - Wednesday 09 Nov 2022</p>
+                <p>@ Peperfabriek 05u30 // Astridplein 11u00</p>
+                <a href="https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823">View on Facebook</a>
                 
-                
+                <br><br>
+
+                <div class="atcb" style="display: none;">
+                    {
+                        "name": "Solidair met de algemene staking! (Antwerpen)) Hogere lonen, lagere facturen!",
+                        "startDate": "2022-11-09",
+                        "startTime": "11:00",
+                        "endTime": "13:00",
+                        "location": "Peperfabriek 05u30 // Astridplein 11u00",
+                        "description": "View the Event here: https://www.facebook.com/events/671875391203490/",
+                        "timeZone": "Europe/Brussels",
+
+                        "label": "Add Solidair... to your Calendar",
+
+                        "options": ["Apple", "Google|Google Calendar", "Microsoft365", "Outlook.com", "Yahoo", "iCal|iCal (.ics file)"],
+                        "trigger": "click",
+                        "listStyle": "overlay"
+                    }
+                </div>
             </article>
-        
-    </main>
+        </div>
+    </section>
+
+    <section id="pages">
+        <h2>Pages & communities</h2>
+        <p>Check out the pages and communities that organise these events!</p>
+        <ul>
+            <li><a href="https://www.facebook.com/LSPPSL.LinkseSocialistischePartij/upcoming_hosted_events">https://www.facebook.com/LSPPSL.LinkseSocialistischePartij/upcoming_hosted_events</a></li>
+            <li><a href="https://www.facebook.com/anarchocollectiefantwerpen/events/">https://www.facebook.com/anarchocollectiefantwerpen/events/</a></li>
+            <li><a href="https://www.facebook.com/ALSAntwerpen/upcoming_hosted_events">https://www.facebook.com/ALSAntwerpen/upcoming_hosted_events</a></li>
+        </ul>
+        <p>(Note: this page is not made by the owners of the pages/communities listed above)</p>
+    </section>
+</main>
+
+<footer class="grid">
+    <span>
+        Events collected & page generated using
+        <a href="https://github.com/Denperidge/facebook-event-aggregator">Facebook Event Aggregator</a>.
+    </span>
+    <span>CSS Stylesheet by <a href="https://picocss.com/">Pico.css</a></span>
+    <span>Calendar buttons by <a href="https://add-to-calendar-button.com/">ATCB</a></span>
+</footer>
+
+<!-- https://github.com/add2cal/add-to-calendar-button -->
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1" async defer></script>
 </body>
 </html>
