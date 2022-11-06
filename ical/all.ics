@@ -10,10 +10,27 @@ UID:https-www-facebook-com-events-4543140500216932022-11-11t19-00-00-01-00
 URL:https://en-gb.facebook.com/events/454314050021693/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
+LOCATION:Peperfabriek 05u30 // Astridplein 11u00
+DTSTART:20221109T100000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:https-www-facebook-com-events-6718753912034902022-11-09t11-00-00-01-00
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
+LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
 DTSTART:20221109T043000Z
 SUMMARY:EGA-ROSA solidarity tour
 UID:https-www-facebook-com-events-8433292236787712022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/843329223678771/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
+LOCATION:Peperfabriek 05u30 // Astridplein 11u00
+DTSTART:20221109T043000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
 END:VEVENT
 END:VCALENDAR
