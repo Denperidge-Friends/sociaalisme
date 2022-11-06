@@ -5,15 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
 DTSTART:20221109T043000Z
 SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:78a56a1e-49a1-4c59-9645-ee1bf493577a@78a5.org
+UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
-LOCATION:Peperfabriek 05u30 // Astridplein 11u00
 DTSTART:20221109T100000Z
 SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:fbbcf011-6f0c-4946-b403-e70688b90586@fbbc.org
+UID:https-www-facebook-com-events-6718753912034902022-11-09t11-00-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
 END:VEVENT
 END:VCALENDAR
