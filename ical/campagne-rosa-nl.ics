@@ -11,6 +11,14 @@ UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
 URL:https://www.facebook.com/events/843329223678771/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
+LOCATION:Gare Centrale
+DTSTART:20221127T120000Z
+SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
+UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
+URL:https://www.facebook.com/events/620730066502197/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
 LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
 DTSTART:20221109T043000Z

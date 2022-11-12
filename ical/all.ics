@@ -11,6 +11,14 @@ UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
 URL:https://www.facebook.com/events/843329223678771/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1311242099687442/ for more info
+LOCATION:Rectoraat UGent
+DTSTART:20221124T113000Z
+SUMMARY:Rector: annuleer de racistische lezing!
+UID:https-www-facebook-com-events-13112420996874422022-11-24t12-30-00-01-00
+URL:https://en-gb.facebook.com/events/1311242099687442/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
 LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
 DTSTART:20221109T043000Z
@@ -25,6 +33,14 @@ DTSTART:20221109T043000Z
 SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
 UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
+LOCATION:Gare Centrale
+DTSTART:20221127T120000Z
+SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
+UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
+URL:https://www.facebook.com/events/620730066502197/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
