@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
-LOCATION:1 person responded
-DTSTART:20221127T090000Z
-SUMMARY:Met ROSA Brugge naar de betoging tegen geweld op vrouwen en LGBTQIA+ personen
-UID:https-www-facebook-com-events-3930881496183062022-11-27t10-00-00-01-00
-URL:https://www.facebook.com/events/393088149618306/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
 LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
 DTSTART:20221109T050000Z
@@ -25,6 +17,14 @@ DTSTART:20221127T120000Z
 SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
 UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
 URL:https://www.facebook.com/events/620730066502197/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
+LOCATION:1 person responded
+DTSTART:20221127T090000Z
+SUMMARY:Met ROSA Brugge naar de betoging tegen geweld op vrouwen en LGBTQIA+ personen
+UID:https-www-facebook-com-events-3930881496183062022-11-27t10-00-00-01-00
+URL:https://www.facebook.com/events/393088149618306/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
