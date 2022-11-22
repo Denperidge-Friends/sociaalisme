@@ -59,6 +59,14 @@ UID:https-www-facebook-com-events-6718753912034902022-11-09t11-00-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2323182237831839/ for more info
+LOCATION:Antwerpen-Centraal
+DTSTART:20221127T092000Z
+SUMMARY:Met ROSA Antwerpen\, betogen tegen geweld op vrouwen en LGBTQIA+ personen
+UID:https-www-facebook-com-events-23231822378318392022-11-27t10-20-00-01-00
+URL:https://www.facebook.com/events/2323182237831839/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z

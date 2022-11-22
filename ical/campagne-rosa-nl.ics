@@ -11,14 +11,6 @@ UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
 URL:https://www.facebook.com/events/843329223678771/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
-LOCATION:Gare Centrale
-DTSTART:20221127T120000Z
-SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
-UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
-URL:https://www.facebook.com/events/620730066502197/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
 LOCATION:1 person responded
 DTSTART:20221127T090000Z
@@ -33,5 +25,21 @@ DTSTART:20221109T043000Z
 SUMMARY:EGA-ROSA solidarity tour
 UID:https-www-facebook-com-events-8433292236787712022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/843329223678771/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
+LOCATION:Gare Centrale
+DTSTART:20221127T120000Z
+SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
+UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
+URL:https://www.facebook.com/events/620730066502197/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2323182237831839/ for more info
+LOCATION:Antwerpen-Centraal
+DTSTART:20221127T092000Z
+SUMMARY:Met ROSA Antwerpen\, betogen tegen geweld op vrouwen en LGBTQIA+ personen
+UID:https-www-facebook-com-events-23231822378318392022-11-27t10-20-00-01-00
+URL:https://www.facebook.com/events/2323182237831839/
 END:VEVENT
 END:VCALENDAR
