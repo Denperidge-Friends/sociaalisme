@@ -11,6 +11,14 @@ UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
 URL:https://www.facebook.com/events/843329223678771/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/478306544283203/ for more info
+LOCATION:Public\n  · Anyone on or off Facebook
+DTSTART:20230115T160000Z
+SUMMARY:Concours ROSA Wedstrijd
+UID:https-www-facebook-com-events-4783065442832032023-01-15t17-00-00-01-00
+URL:https://www.facebook.com/events/478306544283203/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
 LOCATION:1 person responded
 DTSTART:20221127T090000Z
