@@ -18,4 +18,12 @@ SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere fac
 UID:https-www-facebook-com-events-6718753912034902022-11-09t11-00-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875394536823
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/462004116054248/ for more info
+LOCATION:Peperfabriek
+DTSTART:20221203T080000Z
+SUMMARY:vormingsdag Russische Revolutie
+UID:https-www-facebook-com-events-4620041160542482022-12-03t09-00-00-01-00
+URL:https://www.facebook.com/events/462004116054248/
+END:VEVENT
 END:VCALENDAR

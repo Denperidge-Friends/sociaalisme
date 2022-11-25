@@ -75,6 +75,14 @@ UID:https-www-facebook-com-events-23231822378318392022-11-27t10-20-00-01-00
 URL:https://www.facebook.com/events/2323182237831839/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/462004116054248/ for more info
+LOCATION:Peperfabriek
+DTSTART:20221203T080000Z
+SUMMARY:vormingsdag Russische Revolutie
+UID:https-www-facebook-com-events-4620041160542482022-12-03t09-00-00-01-00
+URL:https://www.facebook.com/events/462004116054248/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z
