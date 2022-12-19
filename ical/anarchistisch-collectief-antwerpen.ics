@@ -3,6 +3,22 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/842366960386289/ for more info
+LOCATION:Peperfabriek Antwerp
+DTSTART:20220113T180000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-8423669603862892022-01-13t19-00-00-01-00
+URL:https://en-gb.facebook.com/events/842366960386289/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1311242099687442/ for more info
+LOCATION:Rectoraat UGent
+DTSTART:20221124T113000Z
+SUMMARY:Rector: annuleer de racistische lezing!
+UID:https-www-facebook-com-events-13112420996874422022-11-24t12-30-00-01-00
+URL:https://en-gb.facebook.com/events/1311242099687442/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z
@@ -17,14 +33,6 @@ DTSTART:20221209T180000Z
 SUMMARY:ACA Volkskeuken
 UID:https-www-facebook-com-events-6979271252724772022-12-09t19-00-00-01-00
 URL:https://en-gb.facebook.com/events/697927125272477/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1311242099687442/ for more info
-LOCATION:Rectoraat UGent
-DTSTART:20221124T113000Z
-SUMMARY:Rector: annuleer de racistische lezing!
-UID:https-www-facebook-com-events-13112420996874422022-11-24t12-30-00-01-00
-URL:https://en-gb.facebook.com/events/1311242099687442/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1502653196879947/ for more info
