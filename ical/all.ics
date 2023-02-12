@@ -11,14 +11,6 @@ UID:https-www-facebook-com-events-8423669603862892022-01-13t19-00-00-01-00
 URL:https://en-gb.facebook.com/events/842366960386289/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
-LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
-DTSTART:20221109T050000Z
-SUMMARY:EGA-ROSA solidarity tour
-UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
-URL:https://www.facebook.com/events/843329223678771/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/6069636209748172/ for more info
 LOCATION:Public\n  · Anyone on or off Facebook
 DTSTART:20230308T070000Z
@@ -51,14 +43,6 @@ UID:https-www-facebook-com-events-13112420996874422022-11-24t12-30-00-01-00
 URL:https://en-gb.facebook.com/events/1311242099687442/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/6038795882867654/ for more info
-LOCATION:Brussel Noordstation Brussels
-DTSTART:20230225T120000Z
-SUMMARY:STOP DE RUSSISCHE OORLOG! VREDE VOOR OEKRAÏNE! ЗУПИНІТЬ ВІЙНУ РОСІЇ! МИР ДЛЯ УКРАЇНИ!
-UID:https-www-facebook-com-events-60387958828676542023-02-25t13-00-00-01-00
-URL:https://en-gb.facebook.com/events/6038795882867654/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
 LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
 DTSTART:20221109T043000Z
@@ -67,28 +51,44 @@ UID:https-www-facebook-com-events-8433292236787712022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/843329223678771/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
-LOCATION:Peperfabriek 05u30 // Astridplein 11u00
-DTSTART:20221109T043000Z
-SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
-UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
-URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/516972753752910/ for more info
+LOCATION:Operaplein\, 2000 Antwerpen\, België
+DTSTART:20230308T163000Z
+SUMMARY:8 maart: WALK WITH ROSA @ Mars voor Vrouwenrechten
+UID:https-www-facebook-com-events-5169727537529102023-03-08t17-30-00-01-00
+URL:https://www.facebook.com/events/516972753752910/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
-LOCATION:1 person responded
-DTSTART:20221127T085000Z
-SUMMARY:Met ROSA Brugge naar de betoging tegen geweld op vrouwen en LGBTQIA+ personen
-UID:https-www-facebook-com-events-3930881496183062022-11-27t09-50-00-01-00
-URL:https://www.facebook.com/events/393088149618306/
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1502653196879947/ for more info
+LOCATION:Blandijn Gent
+DTSTART:20221201T163000Z
+SUMMARY:Mars tegen haat en racisme aan de UGent!
+UID:https-www-facebook-com-events-15026531968799472022-12-01t17-30-00-01-00
+URL:https://en-gb.facebook.com/events/1502653196879947/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
-LOCATION:Gare Centrale
-DTSTART:20221127T120000Z
-SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
-UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
-URL:https://www.facebook.com/events/620730066502197/
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/529432615834541/ for more info
+LOCATION:Campus Solbosh\, ULB\, Local K3.401
+DTSTART:20230215T173000Z
+SUMMARY:MEETING ROSA BXL
+UID:https-www-facebook-com-events-5294326158345412023-02-15t18-30-00-01-00
+URL:https://www.facebook.com/events/529432615834541/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/843329223678771/ for more info
+LOCATION:Rond-Point Robert Schuman\, 1040 Bruxelles\, Belgique
+DTSTART:20221109T050000Z
+SUMMARY:EGA-ROSA solidarity tour
+UID:https-www-facebook-com-events-8433292236787712022-11-09t05-00-00
+URL:https://www.facebook.com/events/843329223678771/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/6038795882867654/ for more info
+LOCATION:Brussel Noordstation Brussels
+DTSTART:20230225T120000Z
+SUMMARY:STOP DE RUSSISCHE OORLOG! VREDE VOOR OEKRAÏNE! ЗУПИНІТЬ ВІЙНУ РОСІЇ! МИР ДЛЯ УКРАЇНИ!
+UID:https-www-facebook-com-events-60387958828676542023-02-25t13-00-00-01-00
+URL:https://en-gb.facebook.com/events/6038795882867654/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
@@ -115,6 +115,54 @@ UID:https-www-facebook-com-events-4620041160542482022-12-03t09-00-00-01-00
 URL:https://www.facebook.com/events/462004116054248/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
+LOCATION:1 person responded
+DTSTART:20221127T085000Z
+SUMMARY:Met ROSA Brugge naar de betoging tegen geweld op vrouwen en LGBTQIA+ personen
+UID:https-www-facebook-com-events-3930881496183062022-11-27t09-50-00-01-00
+URL:https://www.facebook.com/events/393088149618306/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/734358718219948/ for more info
+LOCATION:Antwerpen-Centraal railway station Antwerp
+DTSTART:20230225T103000Z
+SUMMARY:VAN ANTWERPEN NAAR NATIONALE MANIFESTATIE IN SOLIDARITEIT MET OEKRAÏNE
+UID:https-www-facebook-com-events-7343587182199482023-02-25t11-30-00-01-00
+URL:https://en-gb.facebook.com/events/734358718219948/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/697446525495513/ for more info
+LOCATION:Mont des Arts\, 1000 Bruxelles\, Belgique
+DTSTART:20230308T163000Z
+SUMMARY:8 Mars: marche contre le sexisme et la vie chère!
+UID:https-www-facebook-com-events-6974465254955132023-03-08t17-30-00-01-00
+URL:https://www.facebook.com/events/697446525495513/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/842366960386289/ for more info
+LOCATION:Peperfabriek Antwerp
+DTSTART:20230113T180000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-8423669603862892023-01-13t19-00-00-01-00
+URL:https://en-gb.facebook.com/events/842366960386289/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Actief Linkse Studenten Antwerpen. See https://www.facebook.com/events/671875391203490/ for more info
+LOCATION:Peperfabriek 05u30 // Astridplein 11u00
+DTSTART:20221109T043000Z
+SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
+UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
+URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
+LOCATION:Gare Centrale
+DTSTART:20221127T120000Z
+SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
+UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
+URL:https://www.facebook.com/events/620730066502197/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/454314050021693/ for more info
 LOCATION:Peperfabriek Antwerp
 DTSTART:20221111T180000Z
@@ -129,21 +177,5 @@ DTSTART:20221209T180000Z
 SUMMARY:ACA Volkskeuken
 UID:https-www-facebook-com-events-6979271252724772022-12-09t19-00-00-01-00
 URL:https://en-gb.facebook.com/events/697927125272477/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1502653196879947/ for more info
-LOCATION:Blandijn Gent
-DTSTART:20221201T163000Z
-SUMMARY:Mars tegen haat en racisme aan de UGent!
-UID:https-www-facebook-com-events-15026531968799472022-12-01t17-30-00-01-00
-URL:https://en-gb.facebook.com/events/1502653196879947/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/842366960386289/ for more info
-LOCATION:Peperfabriek Antwerp
-DTSTART:20230113T180000Z
-SUMMARY:ACA Volkskeuken
-UID:https-www-facebook-com-events-8423669603862892023-01-13t19-00-00-01-00
-URL:https://en-gb.facebook.com/events/842366960386289/?acontext=%7B%22ref%22%3A51%2C%22source%22%3A5%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%5C%22[]%5C%22%22%7D]%2C%22has_source%22%3Atrue%7D
 END:VEVENT
 END:VCALENDAR
