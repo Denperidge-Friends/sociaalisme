@@ -67,6 +67,14 @@ UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
 URL:https://www.facebook.com/events/620730066502197/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/748261703178013/ for more info
+LOCATION:Casa Rosa
+DTSTART:20230226T140000Z
+SUMMARY:Kick-off: Pride is a Protest 2023
+UID:https-www-facebook-com-events-7482617031780132023-02-26t15-00-00-01-00
+URL:https://www.facebook.com/events/748261703178013/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2323182237831839/ for more info
 LOCATION:Antwerpen-Centraal
 DTSTART:20221127T092000Z
