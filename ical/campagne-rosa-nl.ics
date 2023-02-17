@@ -98,4 +98,12 @@ SUMMARY:8 Mars: marche contre le sexisme et la vie chère!
 UID:https-www-facebook-com-events-6974465254955132023-03-08t17-30-00-01-00
 URL:https://www.facebook.com/events/697446525495513/
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
+LOCATION:Operaplein\, 2000 Antwerpen\, België
+DTSTART:20230308T153000Z
+SUMMARY:Vrouwenstaking - Mars voor Vrouwenrechten
+UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
+URL:https://www.facebook.com/events/2998364300460112/
+END:VEVENT
 END:VCALENDAR
