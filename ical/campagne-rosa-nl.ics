@@ -99,6 +99,14 @@ UID:https-www-facebook-com-events-6974465254955132023-03-08t17-30-00-01-00
 URL:https://www.facebook.com/events/697446525495513/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/624280319528629/ for more info
+LOCATION:Rodestraat 14\, 2000 Antwerpen
+DTSTART:20230313T183000Z
+SUMMARY:Why our feminism should be socialist! ROSA Meeting
+UID:https-www-facebook-com-events-6242803195286292023-03-13t19-30-00-01-00
+URL:https://www.facebook.com/events/624280319528629/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
 LOCATION:Operaplein\, 2000 Antwerpen\, België
 DTSTART:20230308T153000Z
