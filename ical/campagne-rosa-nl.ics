@@ -75,6 +75,14 @@ UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
 URL:https://www.facebook.com/events/620730066502197/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
+LOCATION:Operaplein\, 2000 Antwerpen\, België
+DTSTART:20230308T153000Z
+SUMMARY:8 maart Vrouwenstaking - Mars voor Vrouwenrechten
+UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
+URL:https://www.facebook.com/events/2998364300460112/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/748261703178013/ for more info
 LOCATION:Casa Rosa
 DTSTART:20230226T140000Z

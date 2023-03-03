@@ -83,6 +83,14 @@ UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
 URL:https://www.facebook.com/events/2998364300460112/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
+LOCATION:Operaplein\, 2000 Antwerpen\, België
+DTSTART:20230308T153000Z
+SUMMARY:8 maart Vrouwenstaking - Mars voor Vrouwenrechten
+UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
+URL:https://www.facebook.com/events/2998364300460112/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/529432615834541/ for more info
 LOCATION:Campus Solbosh\, ULB\, Local K3.401
 DTSTART:20230215T173000Z
