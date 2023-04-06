@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Organized by Linkse Socialistische Partij LSP - PSL Parti Socialiste de Lutte. See https://www.facebook.com/events/721608679541006/ for more info
+LOCATION:GC Pianofabriek
+DTSTART:20230414T150000Z
+SUMMARY:Socialismedagen 2023
+UID:https-www-facebook-com-events-7216086795410062023-04-14t17-00-00-02-00
+URL:https://www.facebook.com/events/721608679541006/
+END:VEVENT
+END:VCALENDAR

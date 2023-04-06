@@ -155,6 +155,14 @@ UID:https-www-facebook-com-events-6242803195286292023-03-13t19-30-00-01-00
 URL:https://www.facebook.com/events/624280319528629/
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/1278759819709769/ for more info
+LOCATION:De Pianofabriek Cultureel Centrum
+DTSTART:20230414T170000Z
+SUMMARY:Meeting ROSA International: SOCIALISTISCH FEMINISME - Meer dan ooit nodig!
+UID:https-www-facebook-com-events-12787598197097692023-04-14t19-00-00-02-00
+URL:https://www.facebook.com/events/1278759819709769/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/393088149618306/ for more info
 LOCATION:1 person responded
 DTSTART:20221127T085000Z
@@ -201,6 +209,14 @@ DTSTART:20221127T120000Z
 SUMMARY:With ROSA\, marching against violence against women and LGBTQIA+
 UID:https-www-facebook-com-events-6207300665021972022-11-27t13-00-00-01-00
 URL:https://www.facebook.com/events/620730066502197/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Linkse Socialistische Partij LSP - PSL Parti Socialiste de Lutte. See https://www.facebook.com/events/721608679541006/ for more info
+LOCATION:GC Pianofabriek
+DTSTART:20230414T150000Z
+SUMMARY:Socialismedagen 2023
+UID:https-www-facebook-com-events-7216086795410062023-04-14t17-00-00-02-00
+URL:https://www.facebook.com/events/721608679541006/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/748261703178013/ for more info
