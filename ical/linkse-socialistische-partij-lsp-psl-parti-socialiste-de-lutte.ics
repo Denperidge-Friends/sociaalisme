@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DESCRIPTION:Organized by Linkse Socialistische Partij LSP - PSL Parti Socialiste de Lutte. See https://www.facebook.com/events/721608679541006/ for more info
 LOCATION:GC Pianofabriek
