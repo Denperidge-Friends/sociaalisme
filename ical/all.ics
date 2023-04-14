@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
 LOCATION:Operaplein\, 2000 Antwerpen\, België
 DTSTART:20230308T153000Z
-SUMMARY:Vrouwenstaking - Mars voor Vrouwenrechten
+SUMMARY:8 maart Vrouwenstaking - Mars voor Vrouwenrechten
 UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
 URL:https://www.facebook.com/events/2998364300460112/
 END:VEVENT
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/2998364300460112/ for more info
 LOCATION:Operaplein\, 2000 Antwerpen\, België
 DTSTART:20230308T153000Z
-SUMMARY:8 maart Vrouwenstaking - Mars voor Vrouwenrechten
+SUMMARY:Vrouwenstaking - Mars voor Vrouwenrechten
 UID:https-www-facebook-com-events-29983643004601122023-03-08t16-30-00-01-00
 URL:https://www.facebook.com/events/2998364300460112/
 END:VEVENT
@@ -201,6 +201,14 @@ DTSTART:20221109T043000Z
 SUMMARY:Solidair met de algemene staking! (Antwerpen)) Hogere lonen\, lagere facturen!
 UID:https-www-facebook-com-events-6718753912034902022-11-09t05-30-00-01-00
 URL:https://www.facebook.com/events/671875391203490/?event_time_id=671875401203489
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/618447606430154/ for more info
+LOCATION:Minnewaterpark Brugge
+DTSTART:20230517T160000Z
+SUMMARY:Pride is a Protest Brugge 2023
+UID:https-www-facebook-com-events-6184476064301542023-05-17t18-00-00-02-00
+URL:https://www.facebook.com/events/618447606430154/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/620730066502197/ for more info
